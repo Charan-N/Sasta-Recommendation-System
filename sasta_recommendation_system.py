@@ -6,4 +6,4 @@ movies = ['Captain Fantastic', 'WW84', 'The Social Network', 'Logan', 'Padhle BS
 selection = random.choice(movies)
 
 print("Sasta Recommendation System suggests that you should go for: ", selection)
-#Lets see if Netflix and YouTube can beat this!!
+#Lets see if YouTube can beat this!!
